@@ -977,7 +977,7 @@ console.log("working");
 //   });
 
 
-  ////////////////////////////     Add Earthquake Data as an Overlay module 13.6.4                      ////////////////////////
+  ////////////////////////////     Add Earthquake Data as a Map Overlay - module 13.6.4                      ////////////////////////
 
 
   // create the tile layer that will be  the background of our map.
