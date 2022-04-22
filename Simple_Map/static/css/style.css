@@ -1,9 +1,0 @@
-html,
-body,
-/* /* set the width and height of the <div> element to 100% of the page. (#mapid references the "id" tagon the index.html page) */
-#mapid {
-  width: 100%;
-  height: 100%;
-  padding: 0;
-  margin: 0;
-}
