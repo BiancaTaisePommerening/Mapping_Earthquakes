@@ -4,12 +4,12 @@ Mapping Earthquakes with JavaScript &amp; APIs
 
 ## Project Overview
 
-Create interactive maps using JavaScript and the D3 library to traverse and retrieve GeoJSON earthquake and tectonic plate data from the past 7 days, where the the magnitude of the earthquake is displayed on circles that varies in size and color according to its strenght, which details can be seen on apopup box upon clicked. As well, as the Leaflet library to plot the data on a Mapbox map through an API request.
+Create interactive maps using JavaScript and the D3 library to traverse and retrieve GeoJSON earthquake and tectonic plate data from the past 7 days, where the the magnitude of the earthquake is displayed on circles that varies in size and color according to its strength, which details can be seen on a popup box upon clicked. As well, as the Leaflet library to plot the data on a Mapbox map through an API request.
 
 ## Design Solution
 
 - Use GitHub to:
-    - Create branches from the mainn branch
+    - Create branches from the main branch
     - Add, commit, and push data to gitHub branches.
     - Merge branches with the main branch.
 - Retrieve data from a GeoJSON file.
@@ -28,7 +28,7 @@ Create interactive maps using JavaScript and the D3 library to traverse and retr
 
 ### Tectonic Plates
 
-- Tettonic plates on the Streets map style.
+- Tectonic plates on the Streets map style.
 
 ![tectonic_plates](./Earthquake_Challenge/static/images/tectonic_plates.png)
 
@@ -56,4 +56,5 @@ Create interactive maps using JavaScript and the D3 library to traverse and retr
 - All the datasets selected and displayed on the Light map style.
 
 ![light_map_style](./Earthquake_Challenge/static/images/light_map_style.png)
+
 
