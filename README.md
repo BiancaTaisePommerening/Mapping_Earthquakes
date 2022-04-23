@@ -24,37 +24,37 @@ Create interactive maps using JavaScript and the D3 library to traverse and retr
 
 - All Earthquakes from the past 7 days on the Streets map style.
 
-![all_earthquakes](./Earthquake_Challenge/static/images/all_earthquakes.png)
+![all_earthquakes](./static/images/all_earthquakes.png)
 
 ### Tectonic Plates
 
 - Tectonic plates on the Streets map style.
 
-![tectonic_plates](./Earthquake_Challenge/static/images/tectonic_plates.png)
+![tectonic_plates](./static/images/tectonic_plates.png)
 
 ### Major Earthquakes
 
 - Only Earthquakes with magnitude 4.5 and above from the past 7 days, on the Streets map style.
 
-![major_earthquakes](./Earthquake_Challenge/static/images/major_earthquakes.png)
+![major_earthquakes](./static/images/major_earthquakes.png)
 
 ### Streets Map Style with a Popup Box
 
 -  All the datasets selected and displayed on the Street map style, with the popup box of the circle containing the details of that earthquake.
 
-![streets_map_popup_box](./Earthquake_Challenge/static/images/streets_map_popup_box.png)
+![streets_map_popup_box](./static/images/streets_map_popup_box.png)
 
 ### Satellite Map Style
 
 -  All the datasets selected and displayed on the Satellite map style.
 
-![satellite_map_style](./Earthquake_Challenge/static/images/satellite_map_style.png)
+![satellite_map_style](./static/images/satellite_map_style.png)
 
 
 ### Light Map Style
 
 - All the datasets selected and displayed on the Light map style.
 
-![light_map_style](./Earthquake_Challenge/static/images/light_map_style.png)
+![light_map_style](./static/images/light_map_style.png)
 
 
