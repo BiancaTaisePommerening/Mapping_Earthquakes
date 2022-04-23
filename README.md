@@ -19,6 +19,10 @@ Create interactive maps using JavaScript and the D3 library to traverse and retr
 - Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps.
 - Render maps on a local server.
 
+## Link to Interactive Maps webpage
+
+The deployed webpage is accessible at https://biancataisepommerening.github.io/Mapping_Earthquakes/
+
 
 ### All Earthquakes
 
