@@ -4,13 +4,13 @@ Mapping Earthquakes with JavaScript &amp; APIs
 
 ## Project Overview
 
-Create interactive maps using JavaScript and the D3 library to traverse and retrieve GeoJSON earthquake and tectonic plate data from the past 7 days, where the the magnitude of the earthquake is displayed on circles that varies in size and color according to its strength, which details can be seen on a popup box upon clicked. As well, as the Leaflet library to plot the data on a Mapbox map through an API request.
+Create interactive maps using JavaScript and the D3 library to traverse and retrieve GeoJSON earthquake and tectonic plate data from the past 7 days, where the magnitude of the earthquake is displayed on circles that vary in size and color according to its strength, which details can be seen on a popup box upon clicking. As well, as the Leaflet library to plot the data on a Mapbox map through an API request.
 
 ## Design Solution
 
-- Use GitHub to:
+- Use Github:
     - Create branches from the main branch
-    - Add, commit, and push data to gitHub branches.
+    - Add, commit, and push data to Github branches.
     - Merge branches with the main branch.
 - Retrieve data from a GeoJSON file.
 - Make API requests to a server to host geographical maps with 
@@ -22,7 +22,7 @@ Create interactive maps using JavaScript and the D3 library to traverse and retr
 
 ### All Earthquakes
 
-- All Earthquakes from the past 7 days on the Streets map style.
+- All Earthquakes from the past 7 days are displayed in the Streets map style:
 
 ![all_earthquakes](./static/images/all_earthquakes.png)
 
@@ -34,26 +34,26 @@ Create interactive maps using JavaScript and the D3 library to traverse and retr
 
 ### Major Earthquakes
 
-- Only Earthquakes with magnitude 4.5 and above from the past 7 days, on the Streets map style.
+- Only Earthquakes with a magnitude of 4.5 and above from the past 7 days, are displayed in the Streets map style:
 
 ![major_earthquakes](./static/images/major_earthquakes.png)
 
 ### Streets Map Style with a Popup Box
 
--  All the datasets selected and displayed on the Street map style, with the popup box of the circle containing the details of that earthquake.
+-  All the datasets were selected and displayed in the Street map style, with the popup box of the circle containing the details of that earthquake:
 
 ![streets_map_popup_box](./static/images/streets_map_popup_box.png)
 
 ### Satellite Map Style
 
--  All the datasets selected and displayed on the Satellite map style.
+-  All the datasets were selected and displayed in the Satellite map style:
 
 ![satellite_map_style](./static/images/satellite_map_style.png)
 
 
 ### Light Map Style
 
-- All the datasets selected and displayed on the Light map style.
+- All the datasets were selected and displayed in the Light map style:
 
 ![light_map_style](./static/images/light_map_style.png)
 
